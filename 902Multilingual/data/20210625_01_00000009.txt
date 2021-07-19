@@ -1,0 +1,809 @@
+System start up...
+21053103000000000521
+02
+41
+dat = 241
+0242
+write success
+set wdt in
+terrupt
+
+count = 0
+CYBLE_EVT_STACK_ON 
+Start Advertisement w
+ith addr: 00a050e54a1f
+CYBLE_EVT_GAPP_ADVERTISEMENT_START_STOP, state: 3
+
+state: advertising
+count = 0
+
+count = 1
+
+count = 0
+
+count = 0
+
+count = 0
+
+count = 1
+
+count = 0
+
+count 
+= 1
+
+Entry into 
+SYSMODE_STAND_ALONE.
+
+count = 0
+
+close buz
+
+205
+
+204
+
+206
+
+205
+
+205
+
+205
+
+205
+
+205
+
+204
+
+205
+
+205
+
+205
+
+205
+
+204
+
+205
+
+205
+
+205
+
+206
+
+205
+
+205
+
+205
+
+206
+
+205
+
+205
+
+205
+
+205
+
+205
+
+205
+
+205
+
+204
+
+205
+
+206
+
+205
+
+205
+
+205
+
+205
+
+205
+
+205
+
+206
+
+206
+
+205
+
+205
+
+205
+
+205
+
+205
+
+205
+
+206
+
+205
+
+205
+
+206
+
+205
+
+205
+
+205
+
+205
+
+205
+
+205
+
+206
+
+205
+
+205
+
+205
+
+205
+
+205
+
+204
+
+205
+
+205
+
+205
+
+204
+
+205
+
+205
+
+204
+
+
+204
+
+205
+
+204
+
+205
+
+204
+
+205
+
+204
+
+204
+
+204
+
+205
+
+204
+
+205
+
+205
+
+204
+
+204
+
+204
+
+205
+
+204
+
+204
+
+204
+
+204
+
+203
+
+204
+
+20
+5
+
+204
+
+204
+
+204
+
+205
+
+204
+
+204
+
+204
+
+204
+
+204
+
+204
+
+204
+
+205
+
+204
+
+203
+
+204
+
+204
+
+204
+
+204
+
+204
+
+204
+
+204
+
+204
+
+204
+
+204
+
+205
+
+204
+
+204
+
+205
+
+205
+
+206
+
+205
+
+205
+
+205
+
+205
+
+203
+
+203
+
+203
+
+204
+
+205
+
+205
+
+204
+
+204
+
+205
+
+205
+
+204
+
+205
+
+204
+
+203
+
+203
+
+204
+
+204
+
+203
+
+203
+
+204
+
+204
+
+203
+
+204
+
+204
+
+204
+
+205
+
+205
+
+205
+
+206
+
+205
+
+205
+
+204
+
+205
+
+206
+
+206
+
+208
+
+207
+
+207
+
+208
+
+208
+
+20
+9
+
+210
+
+210
+
+210
+
+210
+
+210
+
+210
+
+210
+
+210
+
+210
+
+210
+
+210
+
+211
+
+210
+
+211
+
+211
+
+211
+
+210
+
+210
+
+210
+
+210
+
+210
+
+210
+
+209
+
+209
+
+209
+
+210
+
+210
+
+210
+
+210
+
+209
+
+209
+
+210
+
+209
+
+209
+
+210
+
+209
+
+209
+
+208
+
+209
+
+208
+
+208
+
+209
+
+205
+
+207
+
+210
+
+225
+
+252
+
+282
+
+311
+
+343
+
+372
+
+399
+
+422
+
+442
+
+458
+
+474
+
+486
+
+496
+
+503
+
+510
+
+514
+
+517
+
+
+518
+
+519
+
+519
+
+519
+
+517
+
+515
+
+512
+
+511
+
+508
+
+504
+
+501
+
+497
+
+493
+
+489
+
+486
+
+482
+
+479
+
+475
+
+471
+
+467
+
+463
+
+459
+
+456
+
+452
+
+448
+
+445
+
+442
+
+438
+
+435
+
+431
+
+428
+
+423
+
+421
+
+418
+
+415
+
+412
+
+409
+
+406
+
+404
+
+401
+
+399
+
+395
+
+392
+
+390
+
+387
+
+386
+
+383
+
+381
+
+379
+
+375
+
+373
+
+372
+
+369
+
+367
+
+364
+
+363
+
+
+361
+
+359
+
+358
+
+355
+
+354
+
+351
+
+350
+
+348
+
+347
+
+345
+
+343
+
+341
+
+339
+
+337
+
+336
+
+334
+
+333
+
+331
+
+331
+
+328
+
+327
+
+326
+
+324
+
+323
+
+322
+
+320
+
+BACValue2: 237, CMD: 20, 0F, 01, 00, ED, 00, 13, 01, 3B, 00, 00, 71, 19, 00, 62, 00, 00
+BaseVal: 224
+MaxVal: 315
+raiseTime: 19
+totalTime: 98
+Area: 28953
+MeasureResult: 23
+weisha bushuchu
+
+BACValue2: 237, CMD: 20, 0F, 01, 00, ED, 00, 13, 01, 3B, 00, 00, 71, 19, 00, 62, 00, 00
+BaseVal: 224
+MaxVal: 315
+raiseTime: 19
+totalTime: 98
+Area: 28953
+MeasureResult: 23
+weisha bushuchu
+
+BACValue2: 237, CMD: 20, 0F, 01, 00, ED, 00, 13, 01, 3B, 00, 00, 71, 19, 00, 62, 00, 00
+BaseVal: 224
+MaxVal: 315
+raiseTime: 19
+totalTime: 98
+Area: 28953
+MeasureResult: 23
+weisha bushuchu
+A10013-----19
+
+BACValue2: 237, CMD: 20, 0F, 01, 00, ED, 00, 13, 01, 3B, 00, 00, 71, 19, 00, 62, 00, 00
+BaseVal: 224
+MaxVal: 315
+raiseTime: 19
+totalTime: 98
+Area: 28953
+MeasureResult: 23
+weisha bushuchu
+
+BACValue2: 237, CMD: 20, 0F, 01, 00, ED, 00, 13, 01, 3B, 00, 00, 71, 19, 00, 62, 00, 00
+BaseVal: 224
+MaxVal: 315
+raiseTime: 19
+totalTime: 98
+Area: 28953
+MeasureResult: 23
+weisha bushuchu
+A20062-----98
+
+BACValue2: 237, CMD: 20, 0F, 01, 00, ED, 00, 13, 01, 3B, 00, 00, 71, 19, 00, 62, 00, 00
+BaseVal: 224
+MaxVal: 315
+raiseTime: 19
+totalTime: 98
+Area: 28953
+MeasureResult: 23
+weisha bushuchu
+
+BACValue2: 237, CMD: 20, 0F, 01, 00, ED, 00, 13, 01, 3B, 00, 00, 71, 19, 00, 62, 00, 00
+BaseVal: 224
+MaxVal: 315
+raiseTime: 19
+totalTime: 98
+Area: 28953
+MeasureResult: 23
+weisha bushuchu
+A300CC-----204
+
+BACValue2: 237, CMD: 20, 0F, 01, 00, ED, 00, 13, 01, 3B, 00, 00, 71, 19, 00, 62, 00, 00
+BaseVal: 224
+MaxVal: 315
+raiseTime: 19
+totalTime: 98
+Area: 28953
+MeasureResult: 23
+weisha bushuchu
+
+BACValue2: 237, CMD: 20, 0F, 01, 00, ED, 00, 13, 01, 3B, 00, 00, 71, 19, 00, 62, 00, 00
+BaseVal: 224
+MaxVal: 315
+raiseTime: 19
+totalTime: 98
+Area: 28953
+MeasureResult: 23
+weisha bushuchu
+A40207-----519
+
+BACValue2: 237, CMD: 20, 0F, 01, 00, ED, 00, 13, 01, 3B, 00, 00, 71, 19, 00, 62, 00, 00
+BaseVal: 224
+MaxVal: 315
+raiseTime: 19
+totalTime: 98
+Area: 28953
+MeasureResult: 23
+weisha bushuchu
+
+BACValue2: 237, CMD: 20, 0F, 01, 00, ED, 00, 13, 01, 3B, 00, 00, 71, 19, 00, 62, 00, 00
+BaseVal: 224
+MaxVal: 315
+raiseTime: 19
+totalTime: 98
+Area: 28953
+MeasureResult: 23
+weisha bushuchu
+A500007119-----28953, AreaX = 278, (Area - 2*AreaX) = 28397
+2A21052601000000000621195System start up...
+21053103000000000521
+02
+41
+dat = 241
+0242
+write success
+set wdt in
+terrupt
+
+count = 0
+CYBLE_EVT_STACK_ON 
+Start Advertisement w
+ith addr: 00a050e54a1f
+CYBLE_EVT_GAPP_ADVERTISEMENT_START_STOP, state: 3
+
+state: advertising
+count = 0
+
+count = 1
+
+count = 0
+
+count = 0
+
+count = 0
+
+count = 1
+
+count = 0
+
+count 
+= 1
+

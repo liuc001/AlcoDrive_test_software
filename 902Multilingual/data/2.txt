@@ -1,0 +1,9 @@
+BACValue2: 237, CMD: 20, 0F, 01, 00, ED, 00, 13, 01, 3B, 00, 00, 71, 19, 00, 62, 00, 00
+BaseVal: 224
+MaxVal: 315
+raiseTime: 19
+totalTime: 98
+Area: 28953
+MeasureResult: 23
+weisha bushuchu
+A500007119-----28953, AreaX = 278, (Area - 2*AreaX) = 28397
